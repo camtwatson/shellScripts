@@ -1,3 +1,5 @@
+#!/bin/bash
+
 while true; do
   echo "1. Add"
   echo "2. Subtract"

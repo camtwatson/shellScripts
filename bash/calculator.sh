@@ -1,3 +1,5 @@
+#!/bin/bash
+
 res=0
 
 while :; do
